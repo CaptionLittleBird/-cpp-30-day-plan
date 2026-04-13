@@ -1,0 +1,40 @@
+name: CI - Build (CMake)
+
+on:
+  push:
+    branches:
+      - feature/init-30-day-plan
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y cmake build-essential libsfml-dev
+
+      - name: Configure
+        run: |
+          mkdir -p build
+          cd build
+          cmake -DCMAKE_BUILD_TYPE=Release ..
+
+      - name: Build
+        run: |
+          cd build
+          cmake --build . --config Release -- -j2
+
+      - name: Run Day01 example (if built)
+        run: |
+          if [ -f build/examples/day01/day01 ]; then
+            echo "Day01 binary exists."
+          else
+            echo "Day01 binary not found or build skipped."
+          fi
