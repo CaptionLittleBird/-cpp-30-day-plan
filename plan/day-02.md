@@ -1,14 +1,14 @@
-# Day 02 — Basic Types, I/O
+# Day 02 — 基本类型与输入输出
 
-Goal
-- Learn basic types, std::string, and console I/O.
+目标
+- 学习基本类型、`std::string` 与控制台输入输出。
 
-Tasks
-- Write a CLI program that reads a temperature in Celsius and prints Fahrenheit.
-- Practice std::string and formatted output using std::cout.
+任务
+- 编写一个命令行程序，读取摄氏温度并输出华氏温度。
+- 练习使用 `std::string` 以及用 `std::cout` 格式化输出。
 
-Expected output
-- A small tool that converts values and prints results.
+预期输出
+- 一个可以转换温度并打印结果的小工具。
 
-Hints
-- Use `double` for real numbers; format output with iostream or iomanip.
+提示
+- 对实数使用 `double`；可用 iostream 或 `iomanip` 控制格式。

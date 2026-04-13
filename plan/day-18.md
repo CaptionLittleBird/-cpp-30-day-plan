@@ -1,10 +1,10 @@
-# Day 18 — Input & Events
+# Day 18 — 输入与事件处理
 
-Goal
-- Process keyboard and mouse inputs, event polling.
+目标
+- 处理键盘与鼠标输入，进行事件轮询。
 
-Tasks
-- Implement keyboard movement and simple mouse click detection.
+任务
+- 实现键盘移动与简单的鼠标点击检测。
 
-Expected output
-- Smooth player movement and event reactions.
+预期输出
+- 平滑的玩家移动与事件响应。

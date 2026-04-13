@@ -1,10 +1,10 @@
-# Day 28 — Debugging & Profiling
+# Day 28 — 调试与分析
 
-Goal
-- Run sanitizers and simple profiling to find issues.
+目标
+- 运行 sanitizers 和简单性能分析以发现问题。
 
-Tasks
-- Build with ASAN/UBSAN; use simple profiler to find hotspots.
+任务
+- 使用 ASAN/UBSAN 构建；用简单的分析器定位性能热点。
 
-Expected output
-- Fixes applied for sanitizer-reported issues; performance notes.
+预期输出
+- 修复 sanitizers 报告的问题，并记录性能检查结果。

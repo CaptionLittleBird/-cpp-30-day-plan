@@ -1,10 +1,10 @@
-# Day 15 — Game Loop & Time Step
+# Day 15 — 游戏循环与时间步
 
-Goal
-- Learn the core game loop, delta time, and fixed vs variable timestep.
+目标
+- 学习核心游戏循环、增量时间（delta time）以及固定/可变时间步的区别。
 
-Tasks
-- Implement a console-based loop that prints FPS and demonstrates delta time.
+任务
+- 实现一个控制台循环，打印 FPS 并演示增量时间的使用。
 
-Expected output
-- A loop that runs until exit and prints timing information.
+预期输出
+- 一个运行直到退出并打印时间信息的循环程序。

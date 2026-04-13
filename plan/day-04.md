@@ -1,11 +1,11 @@
-# Day 04 — Functions & Scope
+# Day 04 — 函数与作用域
 
-Goal
-- Understand function declaration/definition, default parameters, and namespaces.
+目标
+- 理解函数的声明/定义、默认参数与命名空间。
 
-Tasks
-- Implement factorial (iterative and recursive).
-- Move utility functions into a namespace.
+任务
+- 实现阶乘（迭代与递归版本）。
+- 将工具函数放入命名空间中。
 
-Expected output
-- Working functions and simple tests in main().
+预期输出
+- 可正常工作的函数，并在 `main()` 中包含简单测试。

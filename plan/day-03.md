@@ -1,11 +1,11 @@
-# Day 03 — Control Flow
+# Day 03 — 控制流程
 
-Goal
-- Master if/else, switch, and loop constructs.
+目标
+- 掌握 `if/else`、`switch` 与循环结构。
 
-Tasks
-- Implement printing of multiplication table (or a small menu-driven program).
-- Practice `for`, `while`, and `range-based for`.
+任务
+- 实现乘法表打印（或一个小的菜单驱动程序）。
+- 练习 `for`、`while` 和基于范围的 `for`。
 
-Expected output
-- Correct loops and branching, no warnings with -Wall.
+预期输出
+- 循环与分支逻辑正确，使用 `-Wall` 编译无警告。

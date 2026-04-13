@@ -1,10 +1,10 @@
-# Day 12 — Algorithms & Lambdas
+# Day 12 — 算法与 Lambda
 
-Goal
-- Use std::sort, std::find, std::transform and lambdas.
+目标
+- 使用 `std::sort`、`std::find`、`std::transform` 以及 Lambda 表达式。
 
-Tasks
-- Sort a vector of structs by a field using lambda comparator.
+任务
+- 使用 Lambda 比较器按字段对结构体向量进行排序。
 
-Expected output
-- Sorted output and practice with std algorithms.
+预期输出
+- 排序后的输出，并熟悉 `std` 算法的使用。

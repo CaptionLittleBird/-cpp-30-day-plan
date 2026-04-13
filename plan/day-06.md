@@ -1,10 +1,10 @@
-# Day 06 — Pointers & References
+# Day 06 — 指针与引用
 
-Goal
-- Learn pointers, references, nullptr, and basic pointer arithmetic (conceptual).
+目标
+- 学习指针、引用、`nullptr` 以及基础的指针运算（概念性理解）。
 
-Tasks
-- Implement swap() using references and a pointer-based variant to compare.
+任务
+- 用引用实现 `swap()`，并实现基于指针的变体进行对比。
 
-Expected output
-- Understanding of when to use references vs pointers.
+预期输出
+- 理解何时使用引用、何时使用指针。

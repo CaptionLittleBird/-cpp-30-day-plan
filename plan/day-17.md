@@ -1,10 +1,10 @@
-# Day 17 — Sprites & Textures
+# Day 17 — 精灵与纹理
 
-Goal
-- Load textures and display sprites.
+目标
+- 加载纹理并显示精灵（sprite）。
 
-Tasks
-- Load an image asset and move it with keyboard input.
+任务
+- 加载图片资源，并通过键盘输入移动精灵。
 
-Expected output
-- Image displayed and moves responsively.Q
+预期输出
+- 图片正确显示并能响应性地移动。

@@ -1,10 +1,10 @@
-# Day 19 — Simple Collision (AABB)
+# Day 19 — 简单碰撞检测（AABB）
 
-Goal
-- Implement axis-aligned bounding box collision detection.
+目标
+- 实现轴对齐包围盒（AABB）碰撞检测。
 
-Tasks
-- Detect collisions between moving rectangle sprites and respond.
+任务
+- 检测移动矩形精灵之间的碰撞并做出响应。
 
-Expected output
-- Collision detection and simple response (stop or bounce).
+预期输出
+- 碰撞检测功能以及简单响应（停止或反弹）。

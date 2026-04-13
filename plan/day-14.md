@@ -1,10 +1,10 @@
-# Day 14 — Unit Testing (optional)
+# Day 14 — 单元测试（可选）
 
-Goal
-- Add simple unit tests using Catch2 or GoogleTest.
+目标
+- 使用 Catch2 或 GoogleTest 添加简单单元测试。
 
-Tasks
-- Write a few unit tests for utility functions (factorial, swap, etc).
+任务
+- 为工具函数（如阶乘、swap 等）编写若干单元测试。
 
-Expected output
-- Basic test suite runnable by ctest.
+预期输出
+- 一个可通过 `ctest` 运行的基础测试套件。

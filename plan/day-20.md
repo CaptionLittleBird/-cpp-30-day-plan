@@ -1,10 +1,10 @@
-# Day 20 — Resource Management
+# Day 20 — 资源管理
 
-Goal
-- Implement a simple ResourceManager to load and reuse textures/sounds.
+目标
+- 实现一个简单的资源管理器（ResourceManager），用于加载并复用纹理/音效等资源。
 
-Tasks
-- Create loader that caches resources by path to avoid duplicate loads.
+任务
+- 实现按路径缓存资源的加载器，避免重复加载。
 
-Expected output
-- Resource reuse and fewer loads.
+预期输出
+- 实现资源复用并减少加载次数。

@@ -1,11 +1,11 @@
-# Day 30 — Finalize & Publish
+# Day 30 — 完成与发布
 
-Goal
-- Finish the small game, write summary, record a short demo, and plan next steps.
+目标
+- 完成小型游戏，撰写总结，录制简短演示，并规划后续步骤。
 
-Tasks
-- Create README gameplay section, add screenshots/GIF, create release.
-- Plan follow-up (systems/embedded path) and list next projects.
+任务
+- 在 README 中添加玩法介绍，加入截图/GIF，创建 release。
+- 规划后续路线（如系统/嵌入式方向）并列出下一个项目名单。
 
-Expected output
-- Completed playable demo in repo and a short project retrospective.
+预期输出
+- 在仓库中完成可玩的演示并撰写简短的项目回顾。

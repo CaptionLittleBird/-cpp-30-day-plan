@@ -1,10 +1,10 @@
-# Day 24 — Player Control & Simple AI
+# Day 24 — 玩家控制与简单 AI
 
-Goal
-- Implement player paddle and AI opponent for Pong.
+目标
+- 为 Pong 实现玩家挡板与简单 AI 对手。
 
-Tasks
-- Player input for paddle; AI moves based on ball y position.
+任务
+- 实现玩家对挡板的输入控制；AI 根据球的 y 位置移动挡板。
 
-Expected output
-- Playable single-player match against AI.
+预期输出
+- 可玩的一人对战 AI 的对局。

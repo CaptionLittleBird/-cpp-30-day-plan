@@ -1,10 +1,10 @@
-# Day 27 — Polish: Sound & Effects
+# Day 27 — 打磨：音效与特效
 
-Goal
-- Add small effects (screen shake, particle, audio).
+目标
+- 添加小型特效（屏幕震动、粒子、音频）以提升手感。
 
-Tasks
-- Add a simple particle effect or screen shake on collision.
+任务
+- 在碰撞时添加简单的粒子效果或屏幕震动。
 
-Expected output
-- Visual/audio polish improving feel.
+预期输出
+- 通过视觉/音频特效提升游戏体验。

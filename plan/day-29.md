@@ -1,10 +1,10 @@
-# Day 29 — Packaging & Cross-Platform
+# Day 29 — 打包与跨平台
 
-Goal
-- Prepare Release build and test on another platform if possible.
+目标
+- 准备 Release 构建，并在可能的情况下在其它平台上测试。
 
-Tasks
-- Create CMake options for Release; prepare assets packaging.
+任务
+- 为 Release 创建 CMake 选项；准备资源打包方案。
 
-Expected output
-- Working Release binary and instructions to run on target OS.
+预期输出
+- 可运行的 Release 二进制和在目标操作系统上的运行说明。

@@ -1,10 +1,10 @@
-# Day 09 — Copy/Move Semantics
+# Day 09 — 拷贝与移动语义
 
-Goal
-- Learn Rule of Five/Zero, copy constructor, move constructor, move assignment.
+目标
+- 学习五法则/零法则、拷贝构造、移动构造与移动赋值。
 
-Tasks
-- Implement a class holding a dynamic buffer and add logging for copy/move operations.
+任务
+- 实现一个持有动态缓冲区的类，并在拷贝/移动操作中添加日志输出。
 
-Expected output
-- Observe copies and moves; practice std::move.
+预期输出
+- 观察拷贝与移动行为，练习使用 `std::move`。

@@ -1,10 +1,10 @@
-# Day 10 — Smart Pointers
+# Day 10 — 智能指针
 
-Goal
-- Use std::unique_ptr, std::shared_ptr, std::weak_ptr.
+目标
+- 使用 `std::unique_ptr`、`std::shared_ptr` 与 `std::weak_ptr`。
 
-Tasks
-- Replace raw pointers in previous day with smart pointers and show lifecycle.
+任务
+- 将前一天使用的裸指针替换为智能指针，并展示对象的生命周期。
 
-Expected output
-- No manual delete; proper automatic cleanup.
+预期输出
+- 无需手动 `delete`，对象能正确自动释放。

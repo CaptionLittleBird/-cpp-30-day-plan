@@ -1,10 +1,10 @@
-# Day 08 — Classes, Constructors, Destructors
+# Day 08 — 类、构造函数与析构函数
 
-Goal
-- Start OOP: define classes, constructors, destructors.
+目标
+- 开始面向对象：定义类、构造函数与析构函数。
 
-Tasks
-- Implement a `Timer` or `Point` class that demonstrates RAII.
+任务
+- 实现一个 `Timer` 或 `Point` 类以演示 RAII（资源获取即初始化）。
 
-Expected output
-- Class with ctor/dtor messages and basic usage.
+预期输出
+- 类在构造/析构时输出消息，并展示基本使用场景。

@@ -1,10 +1,10 @@
-# Day 13 — File I/O & Exceptions
+# Day 13 — 文件 I/O 与异常处理
 
-Goal
-- Read and write files; handle errors.
+目标
+- 读取与写入文件；处理错误情况。
 
-Tasks
-- Parse a CSV or text file and represent entries as objects; include try/catch.
+任务
+- 解析 CSV 或文本文件，将条目表示为对象；包含 try/catch 异常处理。
 
-Expected output
-- Program handles file-not-found gracefully and prints parsed results.
+预期输出
+- 程序能优雅地处理文件不存在等错误，并打印解析结果。

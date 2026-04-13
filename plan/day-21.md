@@ -1,10 +1,10 @@
-# Day 21 — Sound & Music
+# Day 21 — 音效与音乐
 
-Goal
-- Load and play sound effects and background music with SFML.
+目标
+- 使用 SFML 加载并播放音效与背景音乐。
 
-Tasks
-- Play sounds on events (bounce, score) and loop background music.
+任务
+- 在事件（如反弹、得分）时播放音效，并循环播放背景音乐。
 
-Expected output
-- Audio plays appropriately during the demo.
+预期输出
+- 在演示期间音频正确播放。

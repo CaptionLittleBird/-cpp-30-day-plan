@@ -1,10 +1,10 @@
-# Day 11 — STL Containers
+# Day 11 — STL 容器
 
-Goal
-- Explore std::vector, std::map/unordered_map, std::set, std::tuple.
+目标
+- 探索 `std::vector`、`std::map`/`std::unordered_map`、`std::set`、`std::tuple`。
 
-Tasks
-- Build a frequency map using unordered_map and print top N.
+任务
+- 使用 `std::unordered_map` 构建频率映射并打印前 N 项。
 
-Expected output
-- Correctly aggregated frequencies; sorted top results using vector+sort.
+预期输出
+- 正确聚合频率；使用 `vector` + `sort` 输出排序后的前 N 项。

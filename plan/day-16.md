@@ -1,10 +1,10 @@
-# Day 16 — Window & Rendering Setup (SFML)
+# Day 16 — 窗口与渲染初始化（SFML）
 
-Goal
-- Initialize SFML, create a window, clear and display.
+目标
+- 初始化 SFML，创建窗口，清屏并显示。
 
-Tasks
-- Create a window and draw a background color; show FPS text.
+任务
+- 创建窗口并绘制背景颜色；显示 FPS 文本。
 
-Expected output
-- Window opens, shows a color and updates each frame.
+预期输出
+- 窗口打开，显示颜色并在每帧更新。

@@ -1,11 +1,11 @@
-# Day 07 — Mini Project: Guessing Game
+# Day 07 — 小项目：猜数字游戏
 
-Goal
-- Combine week's knowledge into a small CLI game.
+目标
+- 将本周所学知识整合到一个小型命令行游戏中。
 
-Tasks
-- Implement a number-guessing game (random number, input loop, feedback).
-- Add simple scoring and retry option.
+任务
+- 实现一个数字猜测游戏（随机数、输入循环、提示反馈）。
+- 添加简单计分与重试选项。
 
-Expected output
-- Playable console guessing game; push to repo.
+预期输出
+- 可玩的控制台猜数字游戏；将代码推送到仓库。

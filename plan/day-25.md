@@ -1,10 +1,10 @@
-# Day 25 — Collision Response & Physics Tuning
+# Day 25 — 碰撞响应与物理调优
 
-Goal
-- Improve bounce angles and tuning for gameplay feel.
+目标
+- 改进反弹角度并调优以提升游戏手感。
 
-Tasks
-- Modify ball reflection based on hit position; tune speeds.
+任务
+- 根据命中位置修改小球反射逻辑；调整速度参数。
 
-Expected output
-- Better gameplay with predictable bounces and difficulty scaling.
+预期输出
+- 更好的游戏体验，反弹更可预测并具有难度递增效果。

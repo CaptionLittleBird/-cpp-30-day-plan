@@ -1,10 +1,10 @@
-# Day 26 — UI & Scoring
+# Day 26 — 界面与计分
 
-Goal
-- Add score display, lives, and simple menus.
+目标
+- 添加分数显示、生命值与简单菜单。
 
-Tasks
-- Display scores, increment on point, save high score to file.
+任务
+- 显示分数，得分时递增，并将最高分保存到文件。
 
-Expected output
-- Persistent high score and UI showing game state.
+预期输出
+- 持久化的最高分以及显示游戏状态的界面（UI）。
